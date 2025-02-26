@@ -1,0 +1,73 @@
+export const data = [
+    {
+        id:1,
+        img:'/i1.png',
+        name:"Brushed Raglan Sweatshirt",
+        p:"Sweater",
+        price:"$195",
+    },
+    {
+        id:2,
+        img:'/i2.png',
+        name:"Cameryn Sash Tie Dress",
+        p:"Dressr",
+        price:"$545",
+    },
+    {
+        id:3,
+        img:'/i3.png',
+        name:"Flex Sweatshirt",
+        p:"Sweater",
+        price:"$175",
+    },
+    {
+        id:4,
+        img:'/i4.png',
+        name:"Flex Sweatpants",
+        p:"Pants",
+        price:"$175",
+    },
+    {
+        id:5,
+        img:'/i5.png',
+        name:"Pink Fleece Sweatpants",
+        p:"Pants",
+        price:"$195",
+    },
+    {
+        id:6,
+        img:'/i6.png',
+        name:"Lite Sweatpants",
+        p:"Pants",
+        price:"$150",
+    },
+    {
+        id:7,
+        img:'/i7.png',
+        name:"Imperial Alpaca Hoodie",
+        p:"Jackets",
+        price:"$525",
+    },
+    {
+        id:8,
+        img:'/i8.png',
+        name:"Raglan Sweatshirt",
+        p:"Sweater",
+        price:"$195",
+    },
+    {
+        id:9,
+        img:'/i9.png',
+        name:"Muscle Tank",
+        p:"T Shirts",
+        price:"$75",
+    },
+    {
+        id:10,
+        img:'/i10.png',
+        name:"Brushed Bomber",
+        p:"Jackets",
+        price:"$225",
+    },
+
+]
